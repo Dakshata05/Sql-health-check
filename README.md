@@ -4,7 +4,7 @@ PowerShell + dbatools tool that checks SQL Server instances and produces a singl
 colour-coded HTML report plus CSV files. Built to automate the daily checks a DBA
 would otherwise do by hand.
 
-![Sample report](docs/sample-report.png)
+![Sample report](docs/sample.png)
 
 ## What it checks
 
